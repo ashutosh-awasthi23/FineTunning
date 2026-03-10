@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Translate English to French",
+    "input": "Hello",
+    "output": "Bonjour"
+  },
+  {
+    "instruction": "Translate English to French",
+    "input": "Good morning",
+    "output": "Bonjour"
+  },
+  {
+    "instruction": "Translate English to French",
+    "input": "Thank you",
+    "output": "Merci"
+  },
+  {
+    "instruction": "Answer the question",
+    "input": "What is the capital of India?",
+    "output": "New Delhi"
+  },
+  {
+    "instruction": "Answer the question",
+    "input": "What is 5 + 7?",
+    "output": "12"
+  }
+]
