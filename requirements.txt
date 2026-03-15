@@ -4,3 +4,6 @@ transformers
 certifi
 peft
 torch
+trl
+accelerate
+bitsandbytes

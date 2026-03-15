@@ -1,2 +1,8 @@
 ft/
 .vscode/
+results/
+checkpoints/
+*.bin
+*.pt
+*.pth
+FineTunedModel/
